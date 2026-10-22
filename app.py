@@ -4158,7 +4158,7 @@ seed_builtin_master()
 # --- PWA MANIFEST JSON ---
 MANIFEST_JSON = """
 {
-  "name": "Store Price Portal",
+  "name": "Benfica Fresmart Price Portal",
   "short_name": "PricePortal",
   "start_url": "/",
   "display": "standalone",
@@ -4266,7 +4266,7 @@ HTML_TEMPLATE = """
     <nav class="bg-indigo-700 text-white shadow-lg">
         <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center gap-2">
             <div class="flex items-center flex-wrap gap-2">
-                <span class="text-xl font-bold tracking-wide">🏪 Store Price Portal</span>
+                <span class="text-xl font-bold tracking-wide">🏪 Benfica Fresmart Price Portal</span>
                 <span id="role-badge" class="text-xs bg-indigo-900 text-indigo-200 px-2.5 py-0.5 rounded-full font-semibold hidden"></span>
                 
                 <div class="flex items-center space-x-1 bg-indigo-800/90 px-3 py-1 rounded-full border border-indigo-500 text-xs font-semibold">
