@@ -4431,8 +4431,8 @@ HTML_TEMPLATE = """
     </div>
 
     <script>
-        const EMPLOYEE_PASS = "123";
-        const MANAGER_PASS = "2026";
+        const EMPLOYEE_PASS = "1234";
+        const MANAGER_PASS = "151120";
         let currentRole = null;
 
         let currentTempFile = null;
