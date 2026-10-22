@@ -4255,6 +4255,10 @@ HTML_TEMPLATE = """
             <button onclick="handleLogin()" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 rounded-xl shadow-md transition">
                 Login Now
             </button>
+
+            <div class="mt-5 pt-4 border-t border-slate-200 text-center">
+                <p class="text-xs font-semibold text-slate-500">Developed By Sonu Kumar (NCSA0608)</p>
+            </div>
         </div>
     </div>
 
@@ -4429,6 +4433,13 @@ HTML_TEMPLATE = """
         </div>
 
     </div>
+
+    <!-- Developer credit shown on the employee and manager dashboard -->
+    <footer class="max-w-7xl mx-auto px-4 pb-5 text-center">
+        <div class="border-t border-slate-300 pt-4">
+            <p class="text-xs sm:text-sm font-semibold text-slate-500">Developed By Sonu Kumar (NCSA0608)</p>
+        </div>
+    </footer>
 
     <script>
         const EMPLOYEE_PASS = "1234";
